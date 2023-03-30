@@ -1,8 +1,8 @@
 import '@/styles/base.css';
 import type { AppProps } from 'next/app';
-import { Inter } from 'next/font/google';
+import { Open_Sans } from 'next/font/google';
 
-const inter = Inter({
+const inter = Open_Sans({
   variable: '--font-inter',
   subsets: ['latin'],
 });
